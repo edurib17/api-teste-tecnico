@@ -21,10 +21,10 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/edurib17/api_teste_tecnico.git"
   },
   "bugs": {
-    "url": ""
+    "url": "https://github.com/edurib17/api_teste_tecnico"
   },
-  "homepage": ""
+  "homepage": "https://github.com/edurib17/api_teste_tecnico#readme"
 }
