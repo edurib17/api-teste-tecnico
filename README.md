@@ -1,5 +1,5 @@
 # API NodeJs Mysql
-Teste Técnico para vaga de estágio back-end, API faz o CRUD de clientes e lavouras regristradas.
+Teste Técnico para vaga de estágio back-end, API faz o CRUD de clientes e lavouras registradas..
 
 ## Development
 Clone the repository:
@@ -29,7 +29,7 @@ npm start
  <img src="https://github.com/edurib17/api_teste_tecnico/blob/main/PrintScreens/InsertLavouras.jpg" height="500" widht="200" >
  <h1>Update  de lavoura no banco.</h1> 
  <img src="https://github.com/edurib17/api_teste_tecnico/blob/main/PrintScreens/UpdateLavoura.jpg" height="500" widht="200" >
- <h1>Buscar todas as lavouras do  banco de dados </h1> 
+ <h1>Buscar todas as lavouras do banco de dados </h1> 
  <img src="https://github.com/edurib17/api_teste_tecnico/blob/main/PrintScreens/FindAllLavouras.jpg" height="500" widht="200" >
  <h1>Busca lavoura pelo ID</h1> 
  <img src="https://github.com/edurib17/api_teste_tecnico/blob/main/PrintScreens/FindByIdLavouras.jpg" height="500" widht="200" >
