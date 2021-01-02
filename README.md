@@ -7,6 +7,12 @@ Clone the repository:
 <br/>
 Insomnia:
 `https://insomnia.rest/download/`
+<br/>
+Express:
+`$ npm install express`
+<br/>
+Nodemon:
+`npm install -g nodemon`
 
 
 ### Run
