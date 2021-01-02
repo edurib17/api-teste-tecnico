@@ -1,5 +1,5 @@
 # API NodeJs Mysql
-Teste Técnico para vaga de estágio back-end, Api faz o CRUD de clientes e 
+Teste Técnico para vaga de estágio back-end, API faz o CRUD de clientes e lavouras regristradas.
 
 ## Development
 Clone the repository:
