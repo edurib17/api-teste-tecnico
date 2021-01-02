@@ -21,7 +21,7 @@ npm start
  <img src="https://github.com/edurib17/api_teste_tecnico/blob/main/PrintScreens/InsertClientes.jpg" height="500" widht="200" >
  <h1>Update de cliente no banco de dados</h1> 
  <img src="https://github.com/edurib17/api_teste_tecnico/blob/main/PrintScreens/UpdateClientes.jpg" height="500" widht="200" >
- <h1>Buscar todos os  clientes regristados  no banco de dados</h1> 
+ <h1>Buscar todos os  clientes no banco de dados</h1> 
  <img src="https://github.com/edurib17/api_teste_tecnico/blob/main/PrintScreens/FindAll.jpg" height="500" widht="200" >
  <h1>Buscar cliente por ID</h1> 
  <img src="https://github.com/edurib17/api_teste_tecnico/blob/main/PrintScreens/FindById.jpg" height="500" widht="200" >
