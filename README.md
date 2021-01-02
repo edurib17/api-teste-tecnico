@@ -4,6 +4,8 @@ Teste Técnico para vaga de estágio back-end, API faz o CRUD de clientes e lavo
 ## Development
 Clone the repository:
 `git clone git@github.com:edurib17/api_teste_tecnico.git`
+Insomnia:
+`https://insomnia.rest/download/`
 
 ## Exemplos
 
