@@ -8,6 +8,12 @@ Clone the repository:
 Insomnia:
 `https://insomnia.rest/download/`
 
+
+### Run
+```
+npm start
+```
+
 ## Exemplos
 
  <ul>
